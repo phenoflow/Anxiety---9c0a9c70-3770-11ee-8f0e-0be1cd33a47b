@@ -1,0 +1,288 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/anxious-anxiety---primary.py
+inputModule3:
+  class: File
+  path: python/anxiety-attacks---primary.py
+inputModule4:
+  class: File
+  path: python/phobic-anxiety---primary.py
+inputModule5:
+  class: File
+  path: python/anxiety---primary.py
+inputModule6:
+  class: File
+  path: python/anxiety-personality---primary.py
+inputModule7:
+  class: File
+  path: python/neurotic-anxiety---primary.py
+inputModule8:
+  class: File
+  path: python/anxiety-state---primary.py
+inputModule9:
+  class: File
+  path: python/anxiety-specified---primary.py
+inputModule10:
+  class: File
+  path: python/panic-anxiety---primary.py
+inputModule11:
+  class: File
+  path: python/anxiety-depression---primary.py
+inputModule12:
+  class: File
+  path: python/anxiety-hystericu---primary.py
+inputModule13:
+  class: File
+  path: python/anxiety-deafness---primary.py
+inputModule14:
+  class: File
+  path: python/anxiety-paralysis---primary.py
+inputModule15:
+  class: File
+  path: python/anxiety-conversion---primary.py
+inputModule16:
+  class: File
+  path: python/anxiety-amnesia---primary.py
+inputModule17:
+  class: File
+  path: python/anxiety-fugue---primary.py
+inputModule18:
+  class: File
+  path: python/multiple-anxiety---primary.py
+inputModule19:
+  class: File
+  path: python/anxiety-neurosis---primary.py
+inputModule20:
+  class: File
+  path: python/anxiety-pregnancy---primary.py
+inputModule21:
+  class: File
+  path: python/anxiety-aphonia---primary.py
+inputModule22:
+  class: File
+  path: python/anxiety-ganser---primary.py
+inputModule23:
+  class: File
+  path: python/social-anxiety---primary.py
+inputModule24:
+  class: File
+  path: python/anxiety-claustrophobia---primary.py
+inputModule25:
+  class: File
+  path: python/anxiety-acrophobia---primary.py
+inputModule26:
+  class: File
+  path: python/anxiety-flying---primary.py
+inputModule27:
+  class: File
+  path: python/compulsive-anxiety---primary.py
+inputModule28:
+  class: File
+  path: python/obsessional-anxiety---primary.py
+inputModule29:
+  class: File
+  path: python/anxiety-asthenia---primary.py
+inputModule30:
+  class: File
+  path: python/nervous-anxiety---primary.py
+inputModule31:
+  class: File
+  path: python/anxiety-psychasthenia---primary.py
+inputModule32:
+  class: File
+  path: python/anxiety-depersonalisation---primary.py
+inputModule33:
+  class: File
+  path: python/anxiety-hypochondriasis---primary.py
+inputModule34:
+  class: File
+  path: python/anxiety-somatization---primary.py
+inputModule35:
+  class: File
+  path: python/anxiety-briquet---primary.py
+inputModule36:
+  class: File
+  path: python/anxiety-cramp---primary.py
+inputModule37:
+  class: File
+  path: python/occupational-anxiety---primary.py
+inputModule38:
+  class: File
+  path: python/mental-anxiety---primary.py
+inputModule39:
+  class: File
+  path: python/musculoskeletal-anxiety---primary.py
+inputModule40:
+  class: File
+  path: python/anxiety-torticolli---primary.py
+inputModule41:
+  class: File
+  path: python/anxiety-respiratory---primary.py
+inputModule42:
+  class: File
+  path: python/psychogenic-anxiety---primary.py
+inputModule43:
+  class: File
+  path: python/anxiety-hiccough---primary.py
+inputModule44:
+  class: File
+  path: python/cardiovascular-anxiety---primary.py
+inputModule45:
+  class: File
+  path: python/anxiety-cardiac---primary.py
+inputModule46:
+  class: File
+  path: python/gastrointestinal-anxiety---primary.py
+inputModule47:
+  class: File
+  path: python/anxiety-globus---primary.py
+inputModule48:
+  class: File
+  path: python/anxiety-diarrhoea---primary.py
+inputModule49:
+  class: File
+  path: python/anxiety-dyspepsia---primary.py
+inputModule50:
+  class: File
+  path: python/genitourinary-anxiety---primary.py
+inputModule51:
+  class: File
+  path: python/anxiety-dysuria---primary.py
+inputModule52:
+  class: File
+  path: python/anxiety-malfunction---primary.py
+inputModule53:
+  class: File
+  path: python/anxiety-bruxism---primary.py
+inputModule54:
+  class: File
+  path: python/psychosomatic-anxiety---primary.py
+inputModule55:
+  class: File
+  path: python/anxiety-psychalgia---primary.py
+inputModule56:
+  class: File
+  path: python/anxiety-headache---primary.py
+inputModule57:
+  class: File
+  path: python/anxiety-backache---primary.py
+inputModule58:
+  class: File
+  path: python/acute-anxiety---primary.py
+inputModule59:
+  class: File
+  path: python/anxiety-combat---primary.py
+inputModule60:
+  class: File
+  path: python/anxiety-stupor---primary.py
+inputModule61:
+  class: File
+  path: python/anxiety-disturbance---primary.py
+inputModule62:
+  class: File
+  path: python/posttraumatic-anxiety---primary.py
+inputModule63:
+  class: File
+  path: python/anxiety-conduct---primary.py
+inputModule64:
+  class: File
+  path: python/anxiety-adjustment---primary.py
+inputModule65:
+  class: File
+  path: python/anxiety-grief---primary.py
+inputModule66:
+  class: File
+  path: python/anxiety-reaction---primary.py
+inputModule67:
+  class: File
+  path: python/anxiety-predominant---primary.py
+inputModule68:
+  class: File
+  path: python/anxiety-separation---primary.py
+inputModule69:
+  class: File
+  path: python/anxiety-emancipation---primary.py
+inputModule70:
+  class: File
+  path: python/academic-anxiety---primary.py
+inputModule71:
+  class: File
+  path: python/anxiety-culture---primary.py
+inputModule72:
+  class: File
+  path: python/anxiety-emotion---primary.py
+inputModule73:
+  class: File
+  path: python/traumatic-anxiety---primary.py
+inputModule74:
+  class: File
+  path: python/anxiety-mutism---primary.py
+inputModule75:
+  class: File
+  path: python/anxiety-neuroses---primary.py
+inputModule76:
+  class: File
+  path: python/anxiety-agoraphobia---primary.py
+inputModule77:
+  class: File
+  path: python/other-anxiety---primary.py
+inputModule78:
+  class: File
+  path: python/mixed-anxiety---primary.py
+inputModule79:
+  class: File
+  path: python/anxiety-thought---primary.py
+inputModule80:
+  class: File
+  path: python/severe-anxiety---primary.py
+inputModule81:
+  class: File
+  path: python/anxiety-crisis---primary.py
+inputModule82:
+  class: File
+  path: python/anxiety-shock---primary.py
+inputModule83:
+  class: File
+  path: python/anxiety-childhood---primary.py
+inputModule84:
+  class: File
+  path: python/military-anxiety---primary.py
+inputModule85:
+  class: File
+  path: python/dissociative-anxiety---primary.py
+inputModule86:
+  class: File
+  path: python/anxiety-pseudoseizures---primary.py
+inputModule87:
+  class: File
+  path: python/anxiety-somatoform---primary.py
+inputModule88:
+  class: File
+  path: python/anxiety-undifferentiated---primary.py
+inputModule89:
+  class: File
+  path: python/hypochondriacal-anxiety---primary.py
+inputModule90:
+  class: File
+  path: python/anxiety-phobia---primary.py
+inputModule91:
+  class: File
+  path: python/anxiety-costa's---primary.py
+inputModule92:
+  class: File
+  path: python/anxiety-teethgrinding---primary.py
+inputModule93:
+  class: File
+  path: python/anxiety-fatigue---primary.py
+inputModule94:
+  class: File
+  path: python/anxiety-dhat---primary.py
+inputModule95:
+  class: File
+  path: python/output-cases.py
